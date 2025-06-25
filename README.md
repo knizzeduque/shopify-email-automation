@@ -1,6 +1,6 @@
-# 🌐 Shopify Email Automation
+# 🌐 Shopify & Ecommerce Email Automation
 
-🔗 Live Website: https://vlandglobal.com
+🔗 Live Website: https://vlandshop.com/
 
 ## 📄 Project Description
 
